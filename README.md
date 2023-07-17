@@ -20,3 +20,11 @@ Some of objectives that align with the insights of T-Mart sales dashboard:
 7.Measure the effectiveness of promotional campaigns on sales.
 
 8.Identify growth opportunities and areas of improvement in different regions or countries.
+
+***KEY FINDINGS***
+
+1.**Sales Performance Overview:** a high-level summary of sales performance, including total sales, revenue, and profit. Used visualizations such as line charts or bar graphs to show trends over time.
+
+2.**Sales by Product Category:** Break down sales by different product categories. Used a stacked bar chart or a pie chart to illustrate the percentage of sales contributed by each category. This helps us identify the best-performing and underperforming categories.
+
+3.**Top Selling Products:** Highlighted the top-selling products in terms of quantity or revenue. 
