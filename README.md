@@ -28,3 +28,9 @@ Some of objectives that align with the insights of T-Mart sales dashboard:
 2.**Sales by Product Category:** Break down sales by different product categories. Used a stacked bar chart or a pie chart to illustrate the percentage of sales contributed by each category. This helps us identify the best-performing and underperforming categories.
 
 3.**Top Selling Products:** Highlighted the top-selling products in terms of quantity or revenue. 
+
+**DASHBOARD**
+
+![Sales_Dashboard](https://github.com/VARUNA1997/T--Mart-Sales-Insights-Using-Google-Looker-Studio/assets/89696170/133855e9-a28a-4e51-8ab8-27cd90fb16b5)
+
+
